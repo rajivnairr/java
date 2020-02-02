@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="079e83d5-6675-4274-ab5d-f9fe28cd2d95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +54,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.primitivetypechallenge" />
       <item itemvalue="Application.helloworld" />
+      <item itemvalue="Application.primitivetypechallenge" />
       <item itemvalue="Application.variables" />
     </list>
     <recent_temporary>
@@ -134,10 +133,12 @@
     <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1576401548428" />
     <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1576401829146" />
     <state width="1750" height="281" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1576400296291" />
-    <state x="573" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1576401565436">
-      <screen x="0" y="23" width="1792" height="1033" />
+    <state x="1226" y="446" key="com.intellij.ide.util.TipDialog" timestamp="1579850488848">
+      <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="573" y="371" key="com.intellij.ide.util.TipDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1576386515613" />
     <state x="573" y="372" key="com.intellij.ide.util.TipDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1576401565436" />
+    <state x="614" y="358" key="com.intellij.ide.util.TipDialog/0.23.1920.991@0.23.1920.991" timestamp="1578912340848" />
+    <state x="1226" y="446" key="com.intellij.ide.util.TipDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1579850488848" />
   </component>
 </project>
